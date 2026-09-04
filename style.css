@@ -6,7 +6,7 @@ body {
 
 header {
     background-color: #ff00b3; /* cor de fundo */
-    color: #00ff15;            /* cor da fonte */
+    color: #0000000c;            /* cor da fonte */
     text-align: center;        /* centraliza o texto horizontalmente */
     max-width: 800px;          /* define a largura máxima que o elemento pode ter */
     margin: 0 auto;            /* centraliza o bloco inteiro na tela */
@@ -18,8 +18,8 @@ h1 {
 }
 
 main {
-    background-color: #e2e7cc;
-    color: #eeff00;
+    background-color: #ec0ec7;
+    color: #06070000;
     max-width: 800px;
     margin: 0 auto;
     padding: 16px;
@@ -48,8 +48,8 @@ img {
 }
 
 footer {
-    background-color: #01f8b6; /* Mesma cor escura do texto do header para combinar */
-    color: #02fc176b;            /* Cor da fonte branca para dar contraste e leitura */
+    background-color: #000000; /* Mesma cor escura do texto do header para combinar */
+    color: #00030000;            /* Cor da fonte branca para dar contraste e leitura */
     text-align: center;        /* Centraliza o texto horizontalmente */
     max-width: 800px;          /* Mantém o mesmo alinhamento do header e do main */
     margin: 0 auto;            /* Centraliza o bloco inteiro na tela */
